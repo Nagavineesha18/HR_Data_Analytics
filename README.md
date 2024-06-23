@@ -28,7 +28,8 @@ This comprehensive HR Dashboard that includes various data visualizations and me
 
 **Scatter Plot with Trend Lines** - “Qualification, Salary Degree & Qualification Group ID”: Correlates qualifications with salary ranges, potentially indicating the impact of educational levels on earnings.
 
-This dashboard is a valuable tool for HR professionals, providing a snapshot of important workforce metrics that can inform decision-making related to recruitment, compensation, and employee benefits.
+**Live Link**:
+https://app.powerbi.com/view?r=eyJrIjoiNzUwNmM5YzItYzIzNi00OGQwLWE4ZjctMzc4NDYyYWMwMjYyIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9
 
 ## Tools Used
 - Power BI
