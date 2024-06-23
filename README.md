@@ -4,7 +4,8 @@
 This Power BI dashboard provides an insightful overview of HR data analytics across various dimensions including job titles, gender, age, salary, qualifications, and employee retention trends. It aims to assist HR and management in making informed decisions based on staffing, diversity, and compensation.
 
 ## Visualizations
-1. ***Headcount by Job Title***: The bar chart displays the number of employees in various job roles within an organization.![Headcount by Job Title](https://github.com/Nagavineesha18/HR_Data_Analytics/assets/157868027/88ab8a92-8035-405d-93f1-d79cd8dacc08)
+1. ***Headcount by Job Title***: The bar chart displays the number of employees in various job roles within an organization.
+![Headcount by Job Title](https://github.com/Nagavineesha18/HR_Data_Analytics/assets/157868027/88ab8a92-8035-405d-93f1-d79cd8dacc08)
 2. ***Headcount by Gender***: The pie chrat shows breakdown of employees by gender for various job titles.![Headcount by Gender](https://github.com/Nagavineesha18/HR_Data_Analytics/assets/157868027/16635dc6-319b-481a-b061-b4f516f90413)
 
 3. ***Headcount by Age and Gender***: The bar chart shows the age distribution among employees, segmented by gender. It has two separate graphs labeled “Female” and “Male,” with bars representing the number of individuals within age bins of 20, 30, 40, 50, and 60. ![Headcount by Age and Gender](https://github.com/Nagavineesha18/HR_Data_Analytics/assets/157868027/ed8587a1-2696-4a96-a2d1-bc2b22cacfa4)
