@@ -7,6 +7,7 @@ This Power BI dashboard provides an insightful overview of HR data analytics acr
 1. ***Headcount by Job Title***: The bar chart displays the number of employees in various job roles within an organization.
 
 ![Headcount by Job Title](https://github.com/Nagavineesha18/HR_Data_Analytics/assets/157868027/88ab8a92-8035-405d-93f1-d79cd8dacc08)
+
 2. ***Headcount by Gender***: The pie chrat shows breakdown of employees by gender for various job titles.
 
 ![Headcount by Gender](https://github.com/Nagavineesha18/HR_Data_Analytics/assets/157868027/16635dc6-319b-481a-b061-b4f516f90413)
